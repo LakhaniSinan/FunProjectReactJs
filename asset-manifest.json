@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/FunProjectReactJs/static/css/main.88649bfb.chunk.css",
+    "main.js": "/FunProjectReactJs/static/js/main.537bea1f.chunk.js",
+    "main.js.map": "/FunProjectReactJs/static/js/main.537bea1f.chunk.js.map",
+    "runtime-main.js": "/FunProjectReactJs/static/js/runtime-main.b0537d21.js",
+    "runtime-main.js.map": "/FunProjectReactJs/static/js/runtime-main.b0537d21.js.map",
+    "static/js/2.129521af.chunk.js": "/FunProjectReactJs/static/js/2.129521af.chunk.js",
+    "static/js/2.129521af.chunk.js.map": "/FunProjectReactJs/static/js/2.129521af.chunk.js.map",
+    "index.html": "/FunProjectReactJs/index.html",
+    "precache-manifest.f7c0fea88084609ba6194e1fe0dea772.js": "/FunProjectReactJs/precache-manifest.f7c0fea88084609ba6194e1fe0dea772.js",
+    "service-worker.js": "/FunProjectReactJs/service-worker.js",
+    "static/css/main.88649bfb.chunk.css.map": "/FunProjectReactJs/static/css/main.88649bfb.chunk.css.map",
+    "static/js/2.129521af.chunk.js.LICENSE": "/FunProjectReactJs/static/js/2.129521af.chunk.js.LICENSE",
+    "static/media/logo.svg": "/FunProjectReactJs/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0537d21.js",
+    "static/js/2.129521af.chunk.js",
+    "static/css/main.88649bfb.chunk.css",
+    "static/js/main.537bea1f.chunk.js"
+  ]
+}
